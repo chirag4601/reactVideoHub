@@ -48,7 +48,6 @@ const Home = () => {
                         p={['4', '16']}
                         textAlign={'center'}
                     >
-
                         Video Hub: Your Ultimate Video Player and Uploader
                         <br />
                         Video Hub is an innovative app designed to revolutionize your video viewing and uploading experience. With its user-friendly interface and powerful features, Video Hub offers a seamless platform for playing videos and uploading your own content. Whether you're a casual viewer or a content creator, Video Hub has everything you need to enjoy and share videos effortlessly.
