@@ -10,13 +10,15 @@ export const ColorModeSwitcher = props => {
     <IconButton
       variant="ghost"
       color="current"
-      marginLeft="2"
-      pos="fixed"
-      top={4}
-      right={4}
+      pos={'fixed'}
+      top={'4'}
+      right={'4'}
+      zIndex={'overlay'}
       onClick={toggleColorMode}
       icon={<SwitchIcon />}
       {...props}
     />
   );
 };
+
+
